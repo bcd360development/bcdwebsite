@@ -58,7 +58,7 @@ const Contact: React.FC = () => {
           <p className="text-gray-600 max-w-2xl mx-auto">
             {isFR
               ? 'Nous serions ravis d’échanger avec vous. Remplissez le formulaire ci-dessous ou contactez-nous directement.'
-              : \"We'd love to hear from you. Fill out the form below or reach out to us directly.\"}
+              : "We'd love to hear from you. Fill out the form below or reach out to us directly."}
           </p>
         </div>
 
